@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on UI/UX Design
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jontybhalodiya/).
 - 😄 Pronouns: He/Him
