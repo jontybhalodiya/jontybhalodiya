@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jontybhalodiya/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: It’s all 0’s and 1’s
 
 # My GitHub Stats:
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=jontybhalodiya&theme=react-dark" alt="Activity Graph"></p>
