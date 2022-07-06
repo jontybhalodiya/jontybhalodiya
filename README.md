@@ -20,7 +20,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
-![Jonty's github stats](https://github-readme-stats.vercel.app/api?username=jontybhalodiya&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jontybhalodiya&layout=compact" alt="Jonty" /></p>
 
