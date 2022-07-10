@@ -6,9 +6,9 @@
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
 # My GitHub Stats:
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=jontybhalodiya&theme=react-dark" alt="Activity Graph"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jontybhalodiya&show_icons=true&theme=radical" alt="Github readme stats" width="55%"></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jontybhalodiya&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p>
+<p align="left"><img src="https://activity-graph.herokuapp.com/graph?username=jontybhalodiya&theme=react-dark" alt="Activity Graph"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jontybhalodiya&show_icons=true&theme=radical" alt="Github readme stats" width="55%"></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=jontybhalodiya&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
