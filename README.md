@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jontybhalodiya/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It’s all 0’s and 1’s
