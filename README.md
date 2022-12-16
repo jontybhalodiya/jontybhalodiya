@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jontybhalodiya/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: It’s all 0’s and 1’s
+- ⚡ Fun fact: I am a champion sleeper and can fall asleep within minutes of hitting the pillow. My friends often joke that I could sleep through an earthquake – I guess it's just a talent that I have!
 
 # My GitHub Stats:
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jontybhalodiya&bg_color=121212&color=f2edf2&line=35d04e&point=18d825&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"></p>
